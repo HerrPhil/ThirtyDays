@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Thirty Days</string>
+
+    <string name="expand_button_content_description">Show quote</string>
+
+    <string name="day_template">Day %d</string>
+
+    <string name="make1">Ducati</string>
+    <string name="make2">Indian</string>
+    <string name="make3">BMW</string>
+    <string name="make4">Yamaha</string>
+    <string name="make5">Honda</string>
+    <string name="make6">Ducati</string>
+    <string name="make7">Yamaha</string>
+    <string name="make8">Triumph</string>
+    <string name="make9">Yamaha</string>
+    <string name="make10">Ducati</string>
+    <string name="make11">Triumph</string>
+    <string name="make12">Kawasaki</string>
+    <string name="make13">Honda</string>
+    <string name="make14">BMW</string>
+    <string name="make15">Yamaha</string>
+    <string name="make16">Yamaha</string>
+    <string name="make17">Triumph</string>
+    <string name="make18">KTM</string>
+    <string name="make19">Yamaha</string>
+    <string name="make20">KTM</string>
+    <string name="make21">Ducati</string>
+    <string name="make22">Husqvarna</string>
+    <string name="make23">Kawasaki</string>
+    <string name="make24">Honda</string>
+    <string name="make25">Yamaha</string>
+    <string name="make26">Honda</string>
+    <string name="make27">Yamaha</string>
+    <string name="make28">Triumph</string>
+    <string name="make29">Triumph</string>
+    <string name="make30">Suzuki</string>
+
+    <string name="quote1">Everyone crashes Some get back on Some don’t Some can\u0027t. - Hunter S. Thompson</string>
+    <string name="quote2">Good time, good friend, good wheel. - Unknown</string>
+    <string name="quote3">Any day is a good day to leave some miles behind. - Foster Kinn</string>
+    <string name="quote4">Harley Davidson\u0027s first motorcycle proves that indeed after failure comes success. - Unknown</string>
+    <string name="quote5">I hate being sexy but I’m a biker so I can’t help it. - Unknown</string>
+    <string name="quote6">Life is Short So grip it and rip it. - Unknown</string>
+    <string name="quote7">Make noise with your Harley Davidson bike and work in silence to achieve it. - Unknown</string>
+    <string name="quote8">Run the race of life at your own pace. - Unknown</string>
+    <string name="quote9">I actually have no aspirations to ride a motorcycle ever again. It’s exhausting. You get cold. - Ally Walker</string>
+    <string name="quote10">I carry groceries home on the tank of my motorcycle. - Stephan Jenkins</string>
+    <string name="quote11">They say treat yourself right, so I bought a Harley Davidson bike for myself. - Unknown</string>
+    <string name="quote12">Yes, I\u0027m addicted to my bike because It\u0027s way better than being addicted to fake love. - Unknown</string>
+    <string name="quote13">I don\u0027t love the people driving fast, That\u0027s the reason why I overtake them. - Unknown</string>
+    <string name="quote14">I don\u0027t need you my bike is enough drive me crazy. - Anonymous</string>
+    <string name="quote15">I have a lot of respect for the bikers, which I\u0027ve always had. - Emilio Rivera</string>
+    <string name="quote16">I have discovered biker paradise. It is called the Great Smoky Mountains. - Foster Kinn</string>
+    <string name="quote17">I look my best when i take my helmet off after a long motorcycle ride. I have a glow and a bit of helmet hair. - Eric Bana</string>
+    <string name="quote18">It was only a motorcycle but it felt like a mode of being. - Rachel Kushner</string>
+    <string name="quote19">Let\u0027s ride hard towards your goal. - Brajesh Kumar Singh</string>
+    <string name="quote20">Nothing compares to the simple pleasure of a bike ride. - John F. Kennedy</string>
+    <string name="quote21">The road listens. It believes in you. - Foster Kinn</string>
+    <string name="quote22">The road never ends \u2026 only our vision does. - Amit Reddy</string>
+    <string name="quote23">Helmet hair, don\u0027t care. #BikerLife - Anonymous</string>
+    <string name="quote24">For us, every ride is a date, every destination a memory. - Anonymous</string>
+    <string name="quote25">The bad boy quality of a biker is irresistible. - Anonymous</string>
+    <string name="quote26">Our love story began with the kickstart of a motorcycle. - Anonymous</string>
+    <string name="quote27">Two hearts, two wheels, one endless journey. - Anonymous</string>
+    <string name="quote28">Riding together is like a dance where the road is our music. - Anonymous</string>
+    <string name="quote29">The element of danger in riding only makes our bond stronger. - Anonymous</string>
+    <string name="quote30">Every motorcycle ride with you feels like a romantic novel. - Anonymous</string>
+
+</resources>
